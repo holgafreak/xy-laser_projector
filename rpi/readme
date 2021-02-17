@@ -1,0 +1,4 @@
+Xy-laser.py reads csv-file to run it in a continuous loop driving RPi DAC and chea Chinese xy-galvos
+xylaser.py is the HW-interface
+The HW is almost one-to-one on Laser Projector projects in Hacaday and Instructables
+Code is my own implementation to run on RPi
